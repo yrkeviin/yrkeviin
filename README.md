@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: develop systems
 - 💞️ I’m looking to collaborate on: help someone
 - 📫 How to reach me: my instagram- yrkeviin
-- 😄 Pronouns: he/dele
+- 😄 Pronouns: macho
 - ⚡ Fun fact: I started recently but I find it easy to learn and I really like the subject
 
 <!---
