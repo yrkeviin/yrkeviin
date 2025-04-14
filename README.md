@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kevin
+Me chamo Kevin, tenho 17 anos e atualmente estou cursando meu segundo ano de curso técnico em desenvolvimento de sisemas no SENAI. Estou no terceiro ano do ensino médio no SESI e no meu perfil armazeno meus trabalhos e projetos desenvolvidos ao decorrer desse tempinho!
 
 <p align="left">
     <a href="https://github.com/yrkeviin?tab=repositories&sort=stargazers">
