@@ -2,7 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kevin, tenho 17 anos e atualmente estou cursando meu segundo ano de curso técnico em desenvolvimento de sisemas no SENAI. Estou no terceiro ano do ensino médio no SESI e no meu perfil armazeno meus trabalhos e projetos desenvolvidos ao decorrer desse tempinho!
+Tenho 17 anos e atualmente estou no segundo ano do curso técnico em Desenvolvimento de Sistemas pelo SENAI, além de cursar o terceiro ano do Ensino Médio no SESI.
+
+Neste perfil você encontrará meus trabalhos e projetos desenvolvidos ao longo da minha jornada de aprendizado. Estou sempre em busca de evoluir, aprender novas tecnologias e colocar em prática tudo o que venho estudando.
+
+Fique à vontade para explorar meus repositórios! 🚀
 
 <p align="left">
     <a href="https://github.com/yrkeviin?tab=repositories&sort=stargazers">
@@ -19,6 +23,13 @@ Me chamo Kevin, tenho 17 anos e atualmente estou cursando meu segundo ano de cur
             src="https://custom-icon-badges.demolab.com/github/followers/yrkeviin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.instagram.com/seu_usuario_aqui" target="_blank">
+    <img 
+        alt="Instagram" 
+        title="Me siga no Instagram" 
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+</a>
 </p>
 
 ---
