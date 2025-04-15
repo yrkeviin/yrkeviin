@@ -23,7 +23,7 @@ Fique à vontade para explorar meus repositórios! 🚀
             src="https://custom-icon-badges.demolab.com/github/followers/yrkeviin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/seu_usuario_aqui" target="_blank">
+    <a href="https://www.instagram.com/kevin.iluminado" target="_blank">
     <img 
         alt="Instagram" 
         title="Me siga no Instagram" 
