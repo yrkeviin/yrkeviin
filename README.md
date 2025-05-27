@@ -1,11 +1,5 @@
 # Kevin Lima
 
-# 👋 Olá, bem-vindo ao meu perfil!
-
-  Obrigado por acessar meu perfil! 🐒
-  <br>
-  <img src="https://profile-counter.glitch.me/yrkeviin/count.svg?" />
-
 **`Desenvolvedor FullStack`**
 
 Tenho 17 anos e atualmente estou no segundo ano do curso técnico em Desenvolvimento de Sistemas pelo SENAI, além de cursar o terceiro ano do Ensino Médio no SESI.
@@ -113,3 +107,14 @@ Fique à vontade para explorar meus repositórios! 🚀
   />
 
 </p>
+
+### 🤩 Fique a vontade para dar uma olhada!
+
+<div align="center">
+  Obrigado por acessar meu perfil! 🐒
+<br>
+  <br>
+  <img src="https://profile-counter.glitch.me/yrkeviin/count.svg?" />
+
+</div><br/>
+
