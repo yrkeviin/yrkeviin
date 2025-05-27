@@ -1,5 +1,11 @@
 # Kevin Lima
 
+# 👋 Olá, bem-vindo ao meu perfil!
+
+![Visitantes](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yrkeviino&count_bg=%2300FF00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false)
+
+Obrigado por acessar meu perfil! 🐍
+
 **`Desenvolvedor FullStack`**
 
 Tenho 17 anos e atualmente estou no segundo ano do curso técnico em Desenvolvimento de Sistemas pelo SENAI, além de cursar o terceiro ano do Ensino Médio no SESI.
@@ -107,12 +113,3 @@ Fique à vontade para explorar meus repositórios! 🚀
   />
 
 </p>
-
-
-
-<div align="center">
-  Obrigado por acessar meu perfil! 🐒
-    <br>
-      <br>
-  <img src="https://profile-counter.glitch.me/yrkeviin/count.svg?" />
-</div>
