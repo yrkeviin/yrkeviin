@@ -108,6 +108,8 @@ Fique à vontade para explorar meus repositórios! 🚀
 
 </p>
 
+<br>
+
 Obrigado por acessar meu perfil! 🐒
 <br>
   <br>
