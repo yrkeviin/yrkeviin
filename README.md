@@ -113,9 +113,7 @@ Fique à vontade para explorar meus repositórios! 🚀
   />
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
----
+<br style="clear: both;" />
 
 <div align="center">
 
