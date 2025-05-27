@@ -108,11 +108,10 @@ Fique à vontade para explorar meus repositórios! 🚀
 
 </p>
 
-<br>
-
-Obrigado por acessar meu perfil! 🐒
-<br>
-  <br>
+<div align="center">
+  Obrigado por acessar meu perfil! 🐒
+    <br>
+      <br>
   <img src="https://profile-counter.glitch.me/CaioGabDev/count.svg?" />
 
 </div><br/>
