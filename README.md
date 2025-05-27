@@ -108,13 +108,15 @@ Fique à vontade para explorar meus repositórios! 🚀
 
 </p>
 
-### 🤩 Fique a vontade para dar uma olhada!
-
 <div align="center">
+
+  ### 🤩 Fique à vontade para dar uma olhada!
+
   Obrigado por acessar meu perfil! 🐒
-<br>
-  <br>
+
+  <br><br>
+
   <img src="https://profile-counter.glitch.me/yrkeviin/count.svg?" />
 
-</div><br/>
+</div>
 
