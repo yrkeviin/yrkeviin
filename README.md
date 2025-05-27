@@ -108,8 +108,11 @@ Fique à vontade para explorar meus repositórios! 🚀
 
 </p>
 
+
+
 <div align="center">
   Obrigado por acessar meu perfil! 🐒
     <br>
       <br>
   <img src="https://profile-counter.glitch.me/yrkeviin/count.svg?" />
+</div>
