@@ -8,7 +8,7 @@ Neste perfil você encontrará meus trabalhos e projetos desenvolvidos ao longo 
 
 Fique à vontade para explorar meus repositórios! 🚀
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/yrkeviin?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -16,6 +16,8 @@ Fique à vontade para explorar meus repositórios! 🚀
             src="https://custom-icon-badges.demolab.com/github/stars/yrkeviin?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+</p>
+<p align="center">
     <a href="https://github.com/yrkeviin?tab=followers">
         <img 
             alt="Seguidores" 
@@ -23,13 +25,15 @@ Fique à vontade para explorar meus repositórios! 🚀
             src="https://custom-icon-badges.demolab.com/github/followers/yrkeviin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+</p>
+<p align="center">
     <a href="https://www.instagram.com/kevin.iluminado" target="_blank">
-    <img 
-        alt="Instagram" 
-        title="Me siga no Instagram" 
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-</a>
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
@@ -88,6 +92,8 @@ Fique à vontade para explorar meus repositórios! 🚀
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -99,24 +105,24 @@ Fique à vontade para explorar meus repositórios! 🚀
     src="https://github-readme-stats.vercel.app/api?username=yrkeviin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrkeviin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrkeviin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+---
 
 <div align="center">
 
-  ### 🤩 Fique à vontade para dar uma olhada!
+  <h3>🤩 Fique à vontade para dar uma olhada!</h3>
 
-  Obrigado por acessar meu perfil! 🐒
-
-  <br><br>
+  <p>Obrigado por acessar meu perfil! 🐒</p>
 
   <img src="https://profile-counter.glitch.me/yrkeviin/count.svg?" />
 
 </div>
-
