@@ -2,9 +2,13 @@
 
 # 👋 Olá, bem-vindo ao meu perfil!
 
-![Visitantes](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yrkeviin&count_bg=%2300FF00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false)
+<div align="center">
+  Obrigado por acessar meu perfil! 🐒
+<br>
+  <br>
+  <img src="https://profile-counter.glitch.me/CaioGabDev/count.svg?" />
 
-Obrigado por acessar meu perfil! 🐍
+</div><br/>
 
 **`Desenvolvedor FullStack`**
 
