@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 17 anos e atualmente estou no segundo ano do curso técnico em Desenvolvimento de Sistemas pelo SENAI, além de cursar o terceiro ano do Ensino Médio no SESI.
+Tenho 18 anos e atualmente estou no segundo ano do curso técnico em Desenvolvimento de Sistemas pelo SENAI, além de cursar o terceiro ano do Ensino Médio no SESI.
 
 Neste perfil você encontrará meus trabalhos e projetos desenvolvidos ao longo da minha jornada de aprendizado. Estou sempre em busca de evoluir, aprender novas tecnologias e colocar em prática tudo o que venho estudando.
 
@@ -115,9 +115,5 @@ Fique à vontade para explorar meus repositórios! 🚀
 <div align="center">
 
   <h3>🤩 Fique à vontade para dar uma olhada!</h3>
-
-  <p>Obrigado por acessar meu perfil! 🐒</p>
-
-  <img src="https://profile-counter.glitch.me/yrkeviin/count.svg?" />
 
 </div>
