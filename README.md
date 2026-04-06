@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 18 anos e atualmente estou no segundo ano do curso técnico em Desenvolvimento de Sistemas pelo SENAI, além de cursar o terceiro ano do Ensino Médio no SESI.
+Tenho 18 anos e atualmente estou no primeiro semestre da faculdade na PUCC, além de cursar o terceiro ano do Ensino Médio no SESI e SENAI - DS.
 
 Neste perfil você encontrará meus trabalhos e projetos desenvolvidos ao longo da minha jornada de aprendizado. Estou sempre em busca de evoluir, aprender novas tecnologias e colocar em prática tudo o que venho estudando.
 
