@@ -92,28 +92,6 @@ Fique à vontade para explorar meus repositórios! 🚀
 <br/>
 <br/>
 
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yrkeviin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    height="200"
-  />
-</p>
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrkeviin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    height="200"
-  />
-</p>
-
-<br><br>
-
-<div align="center">
-
   <h3>🤩 Fique à vontade para dar uma olhada!</h3>
 
 </div>
